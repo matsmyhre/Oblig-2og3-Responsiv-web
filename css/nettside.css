@@ -149,6 +149,10 @@ form {
     text-decoration: none;
     color: white;
   }
+
+a:hover{
+  background-color: #585858;
+}
 .burger{
   display: block;
   float:left;
